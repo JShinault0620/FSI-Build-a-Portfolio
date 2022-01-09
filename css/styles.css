@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(255, 225, 200);
+    max-width: 750px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.ridge-border {
+    border-style: ridge;
+}
+
+.white-background {
+    background-color: rgb(255, 255, 255);
+}
+
+em {
+    color: brown;
+}
+
+span {
+    background-color: rgb(215, 215, 255);
+}
+
+h3 {
+    color: rgb(255, 255, 175);
+    background-color: black;
+    display: table;
+}
+
+.bordered-image {
+    border-radius: 20px;
+    border-color: green;
+    border-style: solid;
+}
+
+a {
+    cursor: help;
+}
